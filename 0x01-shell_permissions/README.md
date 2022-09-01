@@ -1,1 +1,1 @@
-Readme file
+(1)create a script that switches the current user betty. (2)
